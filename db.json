@@ -1,7 +1,7 @@
 {
     "restaurants" : [
         {
-            "title": "Royal Sushi House", 
+            "title": "Royal Sushi House Test", 
             "deliveryTime": "30-40",
             "minimumOrderValue": 32, 
             "imagePath": "/restaurants/royal-sushi-house.jpeg", 
