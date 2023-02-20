@@ -61,5 +61,12 @@
             "isFeatured": false
         }
         
-    ]
+    ],
+    "categories": [
+        {"name": "Pizza", "imagePath": "/categories/pizza.png", "isSelected": false, "isFilterCategory": true},
+        {"name": "Burger", "imagePath": "/categories/burger.png", "isSelected": true, "isFilterCategory": true},
+        {"name": "BBQ","imagePath": "/categories/meat.png", "isSelected": false, "isFilterCategory": true},
+        {"name": "Sushi","imagePath": "/categories/sushi.png", "isSelected": true, "isFilterCategory": true},
+        {"name": "Vegan","imagePath": "/categories/vegan.png", "isSelected": false, "isFilterCategory": true},
+        {"name": "Dessert","imagePath": "/categories/dessert.png", "isSelected": false, "isFilterCategory": true}]
 }
