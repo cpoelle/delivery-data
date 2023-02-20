@@ -1,0 +1,65 @@
+{
+    "restaurants" : [
+        {
+            "title": "Royal Sushi House", 
+            "deliveryTime": "30-40",
+            "minimumOrderValue": 32, 
+            "imagePath": "/restaurants/royal-sushi-house.jpeg", 
+            "categories": [{
+                "name": "Sushi",
+                "imagePath": "/categories/sushi.png", 
+                "isSelected": false, 
+                "isHorizontal": true}], 
+                "isFeatured": true
+        },
+        {
+            "title": "Burgers & Pizza", 
+            "deliveryTime": "40-60",
+            "minimumOrderValue": 24, 
+            "imagePath": "/restaurants/burger-and-pizza-place.jpeg", 
+            "categories": [
+                {"name": "Burger", "imagePath": "/categories/burger.png"},
+                {"name": "Pizza", "imagePath": "/categories/pizza.png"}
+            ],
+             
+            "isFeatured": true
+        },
+        {
+            "title": "Ninja Sushi", 
+            "deliveryTime": "20-40",
+            "minimumOrderValue": 40, 
+            "imagePath": "/restaurants/ninja-sushi.jpeg", 
+            "categories": [
+                {"name": "Sushi","imagePath": "/categories/sushi.png"}], 
+            "isFeatured": false
+        },
+        {
+            "title": "Sushi Master", 
+            "deliveryTime": "60-70",
+            "minimumOrderValue": 49, 
+            "imagePath": "/restaurants/sushi-master.jpeg", 
+            "categories": [
+                {"name": "Sushi","imagePath": "/categories/sushi.png"}],  
+            "isFeatured": false
+        },
+        {
+            "title": "Japanese sushi", 
+            "deliveryTime": "30-50",
+            "minimumOrderValue": 104, 
+            "imagePath": "/restaurants/japanese-sushi.jpeg", 
+            "categories": [
+                {"name": "Sushi","imagePath": "/categories/sushi.png"}],  
+            "isFeatured": false
+        },
+        {
+            "title": "Kobe", 
+            "deliveryTime": "20-30",
+            "minimumOrderValue": 57, 
+            "imagePath": "/restaurants/kobe.jpeg", 
+            "categories": [
+                {"name": "Sushi","imagePath": "/categories/sushi.png"}], 
+            "isFeatured": false
+        }
+        
+    ]
+}
